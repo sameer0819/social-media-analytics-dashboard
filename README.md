@@ -202,23 +202,23 @@ RETURN FORMAT(d * 100, "+0.0;-0.0") & " pts"
 
 ```
 social-media-analytics-dashboard/
-├── README.md
-├── Social_Media_Dashboard.pbix
+├── assets/
+│   └── logo_icon.png     (KPI icons)
 ├── data/
 │   └── SocialMediaInsights.csv
+├── screenshots/
+│   ├── 01-executive-overview.png
+│   ├── 02-platform-performance.png
+│   ├── 03-top-performing-posts.png
+│   ├── 04-audience-sentiment.png
+│   ├── 05-campaign-content.png
+│   ├── 06-trend-analysis.png
+│   └── 07-post-details.png
 ├── theme/
 │   └── SocialMedia_Theme.json
-├── assets/
-│   ├── logo_icon.png
-│   └── icons/            (KPI icons)
-└── screenshots/
-    ├── 01-executive-overview.png
-    ├── 02-platform-performance.png
-    ├── 03-top-performing-posts.png
-    ├── 04-audience-sentiment.png
-    ├── 05-campaign-content.png
-    ├── 06-trend-analysis.png
-    └── 07-post-details.png
+├── README.md
+└── Social_Media_Dashboard.pbix
+
 ```
 
 [Back to top](#social-media-analytics-dashboard)
