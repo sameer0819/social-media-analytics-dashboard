@@ -248,6 +248,6 @@ To test the drill-through, open **Top Performing Posts**, right-click a row and 
 
 **Mohammed Sameer**
 Data Analyst | Power BI | DAX
-[LinkedIn](https://www.linkedin.com/in/mohammed-sameer-136227300/) | [GitHub](https://github.com/sameer0819) | md8630214@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mohammed-sameer-136227300/) | [GitHub](https://github.com/sameer0819)
 
 *Dataset: practice data for learning purposes. No personal information is included.*
